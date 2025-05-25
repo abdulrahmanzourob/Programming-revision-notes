@@ -1,0 +1,13 @@
+{
+  "fileDirections": {
+    "Parts Data Handling - C++ Code with Full Explanation.md": "rtl",
+    "Untitled 4.md": "rtl",
+    "Explain2/c_str().md": "rtl"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "preventRTLFrontmatter": false,
+  "statusBar": true
+}

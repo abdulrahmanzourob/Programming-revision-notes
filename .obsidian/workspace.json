@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "2528feaf013c4188",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c80b01ec77a736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1392daca748667e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Third Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Third Questions"
+            }
+          },
+          {
+            "id": "db827853d25833f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identify and correct the errors (if exist) in the following pieces of codes..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identify and correct the errors (if exist) in the following pieces of codes."
+            }
+          },
+          {
+            "id": "6d865b45f154d49e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Student Data – Random Access Binary File.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Student Data – Random Access Binary File"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e214c795d3ed7d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3292531ec74d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acbf77e5be559133",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c6e33295c63ca429",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "71f702be6f7c3b5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23fdcfcca8abbdaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b60866d33995971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dc6aab7e2409422",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🟦 Parts Data Handling - C++ Code with Full Explanation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🟦 Parts Data Handling - C++ Code with Full Explanation"
+            }
+          },
+          {
+            "id": "6aea865b75838fed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🟦 Parts Data Handling - C++ Code with Full Explanation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🟦 Parts Data Handling - C++ Code with Full Explanation"
+            }
+          },
+          {
+            "id": "8af70374845c48cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e89f3ccd1cb34cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🟦 Parts Data Handling - C++ Code with Full Explanation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🟦 Parts Data Handling - C++ Code with Full Explanation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "acbf77e5be559133",
+  "lastOpenFiles": [
+    "repo",
+    "Student Data – Random Access Binary File.md",
+    "True and false.md",
+    "Identify and correct the errors (if exist) in the following pieces of codes..md",
+    "explain/A binary search of a list assumes that the list is sorted.md",
+    "Explain2/(&x.md",
+    "Untitled 3.md",
+    "Explain2/cin.get().md",
+    "Explain2/seekg.md",
+    "Explain2/c_str().md",
+    "Explain2/ios;app.md",
+    "Labs/Codes.md",
+    "chapter 2/Enumeration.md",
+    "Explain2/(char)&letter.md",
+    "Explain2/char(score).md",
+    "Parts Data Handling - C++ Code with Full Explanation.md",
+    "Explain2",
+    "Untitled 2.md",
+    "Untitled 4.md",
+    "Third Questions.md",
+    "explain/Random file access is associated with a file pointer..md",
+    "explain/File pointer is different from the pointers we have used in arrays..md",
+    "explain/By default, a file is opened as a text file.md",
+    "explain/Binary file access is faster and more compact than text file access..md",
+    "explain/getline() function discards the terminating character..md",
+    "explain/Sequential Search is inefficient for large lists..md",
+    "explain/The base case for which an answer is explicitly known can be stated non-recursively..md",
+    "explain",
+    "Labs",
+    "chapter 2",
+    "Chapter 1"
+  ]
+}
