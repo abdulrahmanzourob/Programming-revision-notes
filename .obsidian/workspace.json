@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identify and correct the errors (if exist) in the following pieces of codes..md",
+                "file": "True and false.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identify and correct the errors (if exist) in the following pieces of codes."
+              "title": "True and false"
             }
           },
           {
@@ -123,17 +123,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identify and correct the errors (if exist) in the following pieces of codes..md",
+                "file": "True and false.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Identify and correct the errors (if exist) in the following pieces of codes."
+              "title": "Backlinks for True and false"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟦 Parts Data Handling - C++ Code with Full Explanation.md",
+                "file": "True and false.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🟦 Parts Data Handling - C++ Code with Full Explanation"
+              "title": "Outgoing links from True and false"
             }
           },
           {
@@ -197,12 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acbf77e5be559133",
+  "active": "5dc6aab7e2409422",
   "lastOpenFiles": [
+    "Identify and correct the errors (if exist) in the following pieces of codes..md",
     "repo",
     "Student Data – Random Access Binary File.md",
     "True and false.md",
-    "Identify and correct the errors (if exist) in the following pieces of codes..md",
     "explain/A binary search of a list assumes that the list is sorted.md",
     "Explain2/(&x.md",
     "Untitled 3.md",
